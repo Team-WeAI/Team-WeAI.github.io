@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72d9ff0ef4f7a218d61d35983956bfdb",
+    "revision": "9bcc816bcc3bde7a98db669fdc899357",
     "url": "/weai-charles.github.io/index.html"
   },
   {
-    "revision": "033a92f32a0d637644ae",
+    "revision": "36118b666d290658d761",
     "url": "/weai-charles.github.io/static/css/main.ad848255.chunk.css"
   },
   {
-    "revision": "0749b70509cfd093655f",
-    "url": "/weai-charles.github.io/static/js/2.2f8e4043.chunk.js"
+    "revision": "a7ce55f3b811f1ae47c9",
+    "url": "/weai-charles.github.io/static/js/2.22f3e99e.chunk.js"
   },
   {
     "revision": "ce15a0ffcfe8b91e4f219c1d7bb8c5ef",
-    "url": "/weai-charles.github.io/static/js/2.2f8e4043.chunk.js.LICENSE.txt"
+    "url": "/weai-charles.github.io/static/js/2.22f3e99e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "033a92f32a0d637644ae",
-    "url": "/weai-charles.github.io/static/js/main.5a45dbcd.chunk.js"
+    "revision": "36118b666d290658d761",
+    "url": "/weai-charles.github.io/static/js/main.f6e2c7e8.chunk.js"
   },
   {
     "revision": "800b77d78770aaa9d23b",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/weai-charles.github.io/static/css/main.ad848255.chunk.css",
-    "main.js": "/weai-charles.github.io/static/js/main.5a45dbcd.chunk.js",
-    "main.js.map": "/weai-charles.github.io/static/js/main.5a45dbcd.chunk.js.map",
+    "main.js": "/weai-charles.github.io/static/js/main.f6e2c7e8.chunk.js",
+    "main.js.map": "/weai-charles.github.io/static/js/main.f6e2c7e8.chunk.js.map",
     "runtime-main.js": "/weai-charles.github.io/static/js/runtime-main.6e1d682b.js",
     "runtime-main.js.map": "/weai-charles.github.io/static/js/runtime-main.6e1d682b.js.map",
-    "static/js/2.2f8e4043.chunk.js": "/weai-charles.github.io/static/js/2.2f8e4043.chunk.js",
-    "static/js/2.2f8e4043.chunk.js.map": "/weai-charles.github.io/static/js/2.2f8e4043.chunk.js.map",
+    "static/js/2.22f3e99e.chunk.js": "/weai-charles.github.io/static/js/2.22f3e99e.chunk.js",
+    "static/js/2.22f3e99e.chunk.js.map": "/weai-charles.github.io/static/js/2.22f3e99e.chunk.js.map",
     "index.html": "/weai-charles.github.io/index.html",
-    "precache-manifest.8e5d93a91ab3586bb394910f75c0471e.js": "/weai-charles.github.io/precache-manifest.8e5d93a91ab3586bb394910f75c0471e.js",
+    "precache-manifest.bee97498687158e3b36ea522c649756b.js": "/weai-charles.github.io/precache-manifest.bee97498687158e3b36ea522c649756b.js",
     "service-worker.js": "/weai-charles.github.io/service-worker.js",
     "static/css/main.ad848255.chunk.css.map": "/weai-charles.github.io/static/css/main.ad848255.chunk.css.map",
-    "static/js/2.2f8e4043.chunk.js.LICENSE.txt": "/weai-charles.github.io/static/js/2.2f8e4043.chunk.js.LICENSE.txt",
+    "static/js/2.22f3e99e.chunk.js.LICENSE.txt": "/weai-charles.github.io/static/js/2.22f3e99e.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/weai-charles.github.io/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/weai-charles.github.io/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/weai-charles.github.io/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6e1d682b.js",
-    "static/js/2.2f8e4043.chunk.js",
+    "static/js/2.22f3e99e.chunk.js",
     "static/css/main.ad848255.chunk.css",
-    "static/js/main.5a45dbcd.chunk.js"
+    "static/js/main.f6e2c7e8.chunk.js"
   ]
 }
