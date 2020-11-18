@@ -65,7 +65,8 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              We create <span className="text-color-primary">AI</span> that changes the world
+              We create <span className="text-color-primary">AI</span> that changes the world<br></br>
+              Contact <span className="text-color-primary">info@we-ai.net</span> ASAP!
                 </p>
               {/* <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
