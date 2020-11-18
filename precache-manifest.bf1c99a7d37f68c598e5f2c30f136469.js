@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a73bc0981db08c019e79c015f9ffb65e",
+    "revision": "ff80c59d6e9d82de2879d0c0d5451011",
     "url": "/weai-charles.github.io/index.html"
   },
   {
-    "revision": "6692fe9286f1bd97c7e4",
+    "revision": "04688b0bf36f1f98b35a",
     "url": "/weai-charles.github.io/static/css/main.ad848255.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weai-charles.github.io/static/js/2.22f3e99e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6692fe9286f1bd97c7e4",
-    "url": "/weai-charles.github.io/static/js/main.5ba651ed.chunk.js"
+    "revision": "04688b0bf36f1f98b35a",
+    "url": "/weai-charles.github.io/static/js/main.c0c6f582.chunk.js"
   },
   {
     "revision": "800b77d78770aaa9d23b",
