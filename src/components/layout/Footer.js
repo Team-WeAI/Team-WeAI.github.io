@@ -42,7 +42,10 @@ const Footer = ({
           <div className="footer-top space-between text-xxs">
             {/* <Logo /> */}
             {/* <FooterSocial /> */}
+            <div className="footer-info">Charles Cho<br></br>+82 10-2669-6730<br></br>info@we-ai.net</div>
+
           </div>
+          
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             {/* <FooterNav /> */}
             <div className="footer-copyright">Copyright © 2020 WeAI. All Rights Reserved</div>
