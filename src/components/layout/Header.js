@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="mailto:info@we-ai.net" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Contact Us</Link>
+                      <a href="mailto:info@we-ai.net" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Contact Us</a>
 
                       </li>
                     </ul>}
