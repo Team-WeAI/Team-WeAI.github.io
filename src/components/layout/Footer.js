@@ -42,13 +42,13 @@ const Footer = ({
           <div className="footer-top space-between text-xxs">
             {/* <Logo /> */}
             {/* <FooterSocial /> */}
-            <div className="footer-info">Charles Cho<br></br>+82 10-2669-6730<br></br>info@we-ai.net</div>
+            <div className="footer-info">주식회사 위에이아이 (WeAI Co, Ltd)<br></br>대표이사 조재호<br></br>사업자등록번호: 778-88-01740<br></br>+82 10-2669-6730<br></br>info@we-ai.net</div>
 
           </div>
           
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             {/* <FooterNav /> */}
-            <div className="footer-copyright">Copyright © 2020 WeAI. All Rights Reserved</div>
+            <div className="footer-copyright">Copyright © 2020 WeAI Co, Ltd. All Rights Reserved</div>
           </div>
         </div>
       </div>
